@@ -10,4 +10,5 @@ Hardware modifications from stock TronXY X3A
 
 1. Replaced Mainboard with MKS Gen 1.4
 2. Replaced Display with RepRapDiscount with rotary encoder and SD card slot
-3. Replaced Inductive autolevel sensor with BLTouch
+3. Replaced Inductive autolevel sensor
+4. Replaced HotEnd with E3D Clone (J Head) with BLTouchand DIY baracket for BLTouch and Part Cooling Fan 
