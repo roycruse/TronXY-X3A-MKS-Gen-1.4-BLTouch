@@ -13,6 +13,6 @@ Hardware modifications from stock TronXY X3A :-
 4. Replaced HotEnd with E3D Clone (J Head) with BLTouchand DIY baracket for BLTouch and 40mm Part Cooling Fan 
 
 ToDo :-
-* Move frame uprights back by 15mm
+* Move frame uprights back by 15mm (due to new E3D clone being further forward than stock hotend)
 * adjust limits in firmware to reflect moved uprights
 
