@@ -19,7 +19,7 @@ G92 E0 ;                             Zero the Extruded Length
 G4 P20000 ;                          Wait 20 seconds to manually remove extruded filament
 M117 Purging. ;                      Display Message
 G92 E0 ;                             Zero the Extruded Length
-G1 X180 Y7.5 Z0.3 ;                  Move X to 40mm and Y to 7.5mm to prep for purge
-G1 X40 E16 F3000 ;                   Move X-carriage 140mm while purging 16mm of filament
+G1 X180 Y7.5 Z0.3 ;                  Move X to 180mm and Y to 7.5mm to prep for purge
+G1 X40 E16 F3000 ;                   Move X-carriage 140mm left while purging 16mm of filament
 G92 E0 ;                             Zero the Extruded Length
 M117 Printing. ;                     Display Message
