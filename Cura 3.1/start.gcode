@@ -1,4 +1,4 @@
-M117 Pre Heating Bed. ;              Display Message
+M117 Pre Heat Bed 120 seconds. ;     Display Message
 M140 S{material_bed_temperature} ;   Set the bed temperature and continue on
 G4 P120000 ;                         Wait 120 seconds to let bed start to warm up
 M117 Pre Heating HotEnd. ;           Display Message
