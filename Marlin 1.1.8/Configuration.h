@@ -546,7 +546,7 @@
  * Override with M203
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
-#define DEFAULT_MAX_FEEDRATE          { 500, 500, 5, 50 }
+#define DEFAULT_MAX_FEEDRATE          { 500, 500, 20, 60 }
 
 /**
  * Default Max Acceleration (change/s) change = mm/s
@@ -794,11 +794,11 @@
 #define Y_BED_SIZE 220
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
-#define X_MIN_POS -15
-#define Y_MIN_POS -23
+#define X_MIN_POS -18
+#define Y_MIN_POS -13
 #define Z_MIN_POS 0
-#define X_MAX_POS 235
-#define Y_MAX_POS 243
+#define X_MAX_POS 240
+#define Y_MAX_POS 233
 #define Z_MAX_POS 300
 
 /**
