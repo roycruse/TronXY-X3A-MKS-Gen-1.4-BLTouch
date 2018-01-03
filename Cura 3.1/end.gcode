@@ -5,5 +5,5 @@ G1 E-1 F300  ;               Retract the filament a bit before lifting the nozzl
 G1 Z+1 E-5 X-20 Y-20 F9000 ; Move Z up a bit and retract filament even more
 G28 X0 Y0 ;                  Move X/Y to min endstops, so the head is out of the way
 G90 ;                        Absolute positioning
-G1 Y220 F5000 ;              Move completed part out
+G1 Y230 F5000 ;              Move completed part out
 M84 ;                        Steppers off
