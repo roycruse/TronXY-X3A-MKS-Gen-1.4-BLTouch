@@ -7,10 +7,12 @@ Contents :-
 * Cura Settings including start and end gcode.
 
 Hardware modifications from stock TronXY X3A :-
-1. Replaced Mainboard with MKS Gen 1.4
-2. Replaced Display with RepRapDiscount with rotary encoder and SD card slot
-3. Replaced Inductive autolevel sensor with BLTouch Smart
-4. Bed stabilizer mod https://www.thingiverse.com/make:424113
-5. Replaced HotEnd with E3D Clone (J Head) with BLTouch and DIY baracket for BLTouch and 40mm Part Cooling Fan https://www.thingiverse.com/make:425223
-6. Moved uprights back by 25mm to re center the build plate within the available Y axis movement range
-7. Frame mounted spool holder https://www.thingiverse.com/make:424863
+01. Replaced Mainboard with MKS Gen 1.4 (to enable use of standard Marlin and easy reflashing)
+02. Replaced Display with RepRapDiscount with rotary encoder and SD card slot (huge improvement on the 5 button controller)
+03. Replaced Inductive autolevel sensor with BLTouch Smart (could not use the inductive senosr with glass and also was inacurate at different temperatures)
+04. Installed bed stabilizer mod https://www.thingiverse.com/make:424113
+05. Moved uprights back by 25mm to re center the build plate within the available Y axis movement range
+06. Frame mounted spool holder https://www.thingiverse.com/make:424863
+07. Built a box/table for the printer to sit on which houses all the electronics (this makes it much easier to work on the electronics and replace items without having to dismantle the power supplu box each time)
+08. Replaced HotEnd with genuine E3D v6 with BLTouch and DIY baracket for BLTouch and 40mm Part Cooling Fan https://www.thingiverse.com/make:425223
+09. Replaced X and Y belt tensioners with https://www.thingiverse.com/thing:2020468 and https://www.thingiverse.com/thing:2021999
